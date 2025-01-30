@@ -24,7 +24,7 @@ try{
 const {nombre,email,telefono,mensaje} = req.body;
 const message = {
       from:'globaldorado78@gmail.com',
-      to:'elrandygraterol@gmail.com',
+      to:'pitogomez28166561@gmail.com',
       subject:`Nombre : ${nombre}`,
       text:`Notificacion de  ${email} , telefono : ${telefono} , mensaje : ${mensaje}`
     }
